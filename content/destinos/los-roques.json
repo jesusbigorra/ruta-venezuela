@@ -1,0 +1,29 @@
+{
+  "slug": "los-roques",
+  "name": "Los Roques",
+  "region": "Dependencias Federales",
+  "tags": ["Natural", "Paraíso natural"],
+  "destacado": true,
+  "heroGradient": ["#0E6E96", "#EAF3E8"],
+  "heroImage": "https://images.unsplash.com/photo-1730831504726-1db4b1d53059?auto=format&fit=crop&w=1200&q=80",
+  "credit": "Foto: Jorge Brito / Unsplash — Los Roques",
+  "resumen": "Archipiélago de aguas turquesa, parque nacional desde 1972.",
+  "queVisitar": [
+    { "title": "Cayo de Agua", "description": "Duna de arena entre dos playas, de las más fotografiadas del Caribe." },
+    { "title": "Gran Roque", "description": "Único poblado del archipiélago, punto de partida a los cayos." }
+  ],
+  "dondeComer": [
+    { "title": "Posadas del Gran Roque", "description": "Menús de pescado del día incluidos en la estadía." }
+  ],
+  "dondeDormir": [
+    { "title": "Posadas frente al mar", "description": "La forma tradicional de hospedarse en el archipiélago." }
+  ],
+  "dondeVivir": {
+    "enabled": false,
+    "partner": "Propiedash",
+    "description": "",
+    "stats": [],
+    "ctaLabel": "",
+    "url": ""
+  }
+}

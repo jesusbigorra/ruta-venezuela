@@ -1,0 +1,31 @@
+{
+  "slug": "merida",
+  "name": "Mérida",
+  "region": "Andes venezolanos",
+  "tags": ["Montaña", "Aventura"],
+  "destacado": true,
+  "heroGradient": ["#123A24", "#3E8A4A"],
+  "resumen": "Naturaleza y calidad de vida a precios accesibles. Ideal para quienes buscan clima de montaña todo el año.",
+  "queVisitar": [
+    { "title": "Teleférico de Mérida", "description": "Uno de los más altos y largos del mundo." },
+    { "title": "Los Nevados", "description": "Pueblo colonial en la montaña, punto de partida a pie o en jeep." }
+  ],
+  "dondeComer": [
+    { "title": "La Trucha Azul", "description": "Trucha fresca de los ríos andinos." }
+  ],
+  "dondeDormir": [
+    { "title": "Posadas en Los Nevados", "description": "Alojamiento familiar con vista a la cordillera." }
+  ],
+  "dondeVivir": {
+    "enabled": true,
+    "partner": "Propiedash",
+    "description": "Naturaleza y calidad de vida a precios accesibles. Ideal para quienes buscan clima de montaña todo el año.",
+    "stats": [
+      { "label": "propiedades", "value": "340+" },
+      { "label": "zonas", "value": "18" },
+      { "label": "promedio/mes", "value": "$180" }
+    ],
+    "ctaLabel": "Ver propiedades en Propiedash",
+    "url": "https://propiedash.com/merida?utm_source=rutavenezuela&utm_medium=app&utm_campaign=merida"
+  }
+}

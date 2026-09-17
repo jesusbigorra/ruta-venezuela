@@ -1,0 +1,29 @@
+{
+  "slug": "margarita",
+  "name": "Margarita",
+  "region": "Nueva Esparta",
+  "tags": ["Playa", "Sol y mar"],
+  "destacado": true,
+  "heroGradient": ["#1E88A8", "#F2D06B"],
+  "heroImage": "https://images.unsplash.com/photo-1697562601152-676344ba1c79?auto=format&fit=crop&w=1200&q=80",
+  "credit": "Foto: Jorge Campos / Unsplash — Bahía de Pampatar, Isla de Margarita",
+  "resumen": "Playas, comercio libre y vida costera todo el año.",
+  "queVisitar": [
+    { "title": "Playa El Agua", "description": "La más concurrida, con restaurantes frente al mar." },
+    { "title": "Castillo de Santa Rosa", "description": "Fortificación colonial con vista a La Asunción." }
+  ],
+  "dondeComer": [
+    { "title": "Restaurantes de Pampatar", "description": "Pescado y mariscos frente al puerto." }
+  ],
+  "dondeDormir": [
+    { "title": "Hoteles en Playa El Agua", "description": "Desde posadas familiares hasta resorts todo incluido." }
+  ],
+  "dondeVivir": {
+    "enabled": false,
+    "partner": "Propiedash",
+    "description": "",
+    "stats": [],
+    "ctaLabel": "",
+    "url": ""
+  }
+}
