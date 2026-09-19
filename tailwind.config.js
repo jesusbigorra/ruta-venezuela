@@ -13,7 +13,7 @@ module.exports = {
         "bg-soft": "#F1F4F7",
         line: "#E4E8EC",
         muted: "#7A8794",
-        brand-green: "#3CAA5C",
+                "brand-green": "#3CAA5C",
       },
       fontFamily: {
         sans: ["Manrope", "system-ui", "sans-serif"],
