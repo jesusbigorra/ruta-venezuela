@@ -89,12 +89,7 @@ export default function IconGrid() {
           <path d="M3 11l9-7 9 7" stroke="#1E2A36" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
           <path d="M5 10v9h14v-9" stroke="#1E2A36" strokeWidth="1.8" strokeLinejoin="round" />
         </svg>
-        <div className="text-left">
-          <span className="block text-[9px] font-bold text-ink/70">
-            Powered by Propiedash
-          </span>
-          <span className="text-sm font-black">Dónde vivir</span>
-        </div>
+        <span className="text-sm font-black">Dónde vivir</span>
       </Link>
     </div>
   );
