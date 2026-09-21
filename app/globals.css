@@ -1,2 +1,47 @@
 @import "tailwindcss";
 @config "../tailwind.config.js";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FAF4E8;
+}
+
+.tilt-1 { transform: rotate(-2.5deg); }
+.tilt-2 { transform: rotate(2deg); }
+.tilt-3 { transform: rotate(-1.5deg); }
+.tilt-4 { transform: rotate(1.5deg); }
+
+.polaroid {
+  background: #fff;
+  padding: 6px 6px 14px 6px;
+  border-radius: 4px;
+  box-shadow: 0 6px 18px rgba(19,38,56,0.18), 0 2px 4px rgba(19,38,56,0.10);
+}
+
+.mark-yellow {
+  background: linear-gradient(transparent 62%, #F6C33C 62%);
+  padding: 0 2px;
+}
+
+.mark-coral {
+  background: linear-gradient(transparent 62%, #E85D3D 55%);
+  padding: 0 2px;
+  color: #fff;
+}
+
+.badge-circle {
+  border-radius: 999px;
+  background: #1E2A36;
+  box-shadow: 0 4px 10px rgba(19,38,56,0.25);
+}
+
+.dashed-line {
+  border-top: 2px dashed rgba(30,42,54,0.25);
+}
+
+.sticker {
+  box-shadow: 0 6px 14px rgba(19,38,56,0.22);
+}
